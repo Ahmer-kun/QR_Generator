@@ -1,0 +1,6 @@
+
+{
+  "name": "Quick QR Generator",
+  "description": "A free, modern, and easy-to-use QR code generator. Turn any URL or text into a scannable QR code and download it as a high-quality PNG image instantly.",
+  "requestFramePermissions": []
+}
