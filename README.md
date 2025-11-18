@@ -1,10 +1,6 @@
 # 🚀 Quick QR Generator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmer-kun/quick-qr-generator/main/public/social-preview.png" alt="Quick QR Generator Screenshot" width="700">
-</p>
-
-<p align="center">
   A free, modern, and easy-to-use QR code generator built with React and Tailwind CSS. Turn any URL or text into a scannable QR code and download it as a high-quality PNG image instantly. This application is <strong>fully client-side</strong>, ensuring your data remains completely private.
 </p>
 
