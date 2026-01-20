@@ -1,4 +1,4 @@
-# 🚀 Quick QR Generator
+# Quick QR Generator
 
 <p align="center">
   A free, modern, and easy-to-use QR code generator built with React and Tailwind CSS. Turn any URL or text into a scannable QR code and download it as a high-quality PNG image instantly. This application is <strong>fully client-side</strong>, ensuring your data remains completely private.
@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Instant Generation:** Create QR codes from URLs or any text in real-time.
 -   **Live Preview:** See your QR code appear as soon as you generate it.
@@ -17,18 +17,18 @@
 -   **Sleek & Modern UI:** A clean, intuitive, and visually appealing interface built with Tailwind CSS.
 -   **No Ads, No Tracking:** A straightforward, clutter-free experience focused on functionality.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend:** [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 -   **QR Code Generation:** [qrcode](https://github.com/soldair/node-qrcode) library
 -   **Icons:** Custom SVG components
 
-## 🚀 How It Works
+## How It Works
 
 The application leverages the `qrcode` library to generate QR code data URLs directly in the user's browser. When you input text and click "Generate," the JavaScript running on the page converts your input into a QR code image without making any network requests to a backend server. This client-side approach guarantees that your input data remains completely private and secure.
 
-## ⚙️ Getting Started
+## Getting Started
 
 This project uses modern web technologies and is set up to be run directly in the browser without a complex build process.
 
@@ -46,7 +46,7 @@ This project uses modern web technologies and is set up to be run directly in th
     # Or right-click the file and choose "Open with..." your favorite browser.
     ```
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized with a clear separation of concerns, making it easy to navigate and maintain.
 
@@ -67,7 +67,7 @@ The project is organized with a clear separation of concerns, making it easy to 
     └── 📄 TermsOfServicePage.tsx
 ```
 
-## 🛡️ Privacy
+## Privacy
 
 We take your privacy seriously. This tool is designed to be 100% private.
 
@@ -77,7 +77,7 @@ We take your privacy seriously. This tool is designed to be 100% private.
 
 For more details, please review the [Privacy Policy](./pages/PrivacyPolicyPage.tsx) and [Terms of Service](./pages/TermsOfServicePage.tsx).
 
-## ✍️ Author
+## Author
 
 Created with ❤️ by **Ahmer Amir**
 
