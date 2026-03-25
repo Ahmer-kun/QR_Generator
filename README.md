@@ -60,7 +60,7 @@ The project is organized with a clear separation of concerns, making it easy to 
 │   ├── 📄 QRCodeDisplay.tsx
 │   ├── 📄 MainFooter.tsx
 │   └── 📁 icons/          # SVG icon components
-└── 📁 pages/            # Page-level components
+└── 📁 pages/            # Pages-level components
     ├── 📄 IntroPage.tsx
     ├── 📄 GeneratorPage.tsx
     ├── 📄 PrivacyPolicyPage.tsx
